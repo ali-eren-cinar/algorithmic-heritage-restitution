@@ -1,4 +1,12 @@
-![Procedural Reconstruction Shell](Ekran%20Resmi%202026-10-13%2012.02.17.png)
+### 📐 Procedural Reconstruction Core
+![Procedural Reconstruction Shell](malatya_dome_reconstruction.png)
+*Figure 1: Parametrically instantiated structural shell (pillars, octagonal drum, and dome).*
+
+---
+
+### 💻 Python & Blender Execution Environment
+![Blender Python Environment](code_execution_interface.png)
+*Figure 2: Procedural execution within Blender's Python API, calculating parametric ratios.*
 # Algorithmic Heritage & Digital Restitution
 ### Automated Procedural Reconstruction of Destroyed Cultural Assets
 
