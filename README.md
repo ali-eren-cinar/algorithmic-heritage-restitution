@@ -1,3 +1,4 @@
+![Procedural Reconstruction Shell](Ekran%20Resmi%202026-10-13%2012.02.17.png)
 # Algorithmic Heritage & Digital Restitution
 ### Automated Procedural Reconstruction of Destroyed Cultural Assets
 
